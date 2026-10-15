@@ -1,0 +1,6 @@
+{
+  "name": "FoodBridge AI",
+  "description": "AI-powered food surplus prediction and redistribution platform. Predict surplus, prevent overproduction, and connect fresh food with nearby communities in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
